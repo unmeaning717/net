@@ -2,17 +2,17 @@
   <rect width="1080" height="720" fill="#dbf4ff"/>
   <rect x="42" y="42" width="996" height="636" rx="34" fill="#fff" stroke="#62b5dc" stroke-width="3"/>
   <path d="M76 42h928a34 34 0 0 1 34 34v74H42V76a34 34 0 0 1 34-34z" fill="#62b5dc"/>
-  <text x="80" y="112" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="38" fill="#fff">今日同心日历</text>
-  <text x="620" y="112" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="28" fill="#fff">4月13日前后</text>
-  <text x="80" y="255" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="74" font-weight="700" fill="#123f58">泼水节</text>
-  <text x="84" y="318" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="32" fill="#62b5dc">傣族 / 德昂族｜水文化 新年 祝福</text>
-  <rect x="80" y="350" width="920" height="118" rx="18" fill="#dbf4ff" opacity=".72" stroke="#e8e8e8"/>
-  <text x="110" y="392" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="28" fill="#123f58">节日速览</text>
-  <text font-family="Microsoft YaHei, SimHei, sans-serif" font-size="30" fill="#222"><tspan x="245" y="392">以清水传递洁净、祝福和新年更新。节日中常见泼水祝福、孔雀</tspan><tspan x="245" y="432">舞、赛龙舟等活动。</tspan></text>
-  <rect x="80" y="500" width="920" height="86" rx="18" fill="#fafafa" stroke="#e8e8e8"/>
-  <text x="110" y="553" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="26" fill="#123f58">共同体连接</text>
-  <text font-family="Microsoft YaHei, SimHei, sans-serif" font-size="27" fill="#333"><tspan x="300" y="545">泼水节也为阿昌、德昂、布朗、佤等民族共享，是边疆多</tspan><tspan x="300" y="581">民族文化互鉴的节日现场。</tspan></text>
-  <text x="84" y="625" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="28" fill="#555">配图方向：水滴、民族服饰、孔雀舞、竹筒饭</text>
-  <text x="84" y="666" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="26" fill="#62b5dc">回复“详细 / 短视频 / 公众号”继续生成</text>
+  <text x="80" y="112" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="40" fill="#fff">今日同心日历</text>
+  <text x="650" y="112" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="30" fill="#fff">4月13日前后</text>
+  <text x="80" y="265" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="90" font-weight="700" fill="#123f58">泼水节</text>
+  <text x="84" y="338" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="36" fill="#62b5dc">傣族 / 德昂族｜水文化 新年 祝福</text>
+  <rect x="80" y="378" width="920" height="112" rx="20" fill="#dbf4ff" opacity=".75" stroke="#e8e8e8"/>
+  <text x="112" y="425" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="32" fill="#123f58">节日速览</text>
+  <text font-family="Microsoft YaHei, SimHei, sans-serif" font-size="34" fill="#222"><tspan x="270" y="425">以清水传递洁净、祝福和新年更新。</tspan></text>
+  <rect x="80" y="520" width="920" height="82" rx="20" fill="#fafafa" stroke="#e8e8e8"/>
+  <text x="112" y="571" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="30" fill="#123f58">共同体连接</text>
+  <text font-family="Microsoft YaHei, SimHei, sans-serif" font-size="31" fill="#333"><tspan x="320" y="569">傣族、德昂族等共享水文化节庆，体现边疆多民</tspan><tspan x="320" y="607">族文化互鉴。</tspan></text>
+  <text x="84" y="640" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="30" fill="#555">配图方向：水滴、民族服饰、孔雀舞、竹筒饭</text>
+  <text x="84" y="676" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="28" fill="#62b5dc">回复“详细 / 短视频 / 公众号”继续生成</text>
   <text x="860" y="666" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="24" fill="#888">中南民族大学</text>
 </svg>
