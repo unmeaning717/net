@@ -77,6 +77,68 @@
 ![暂无明确记录](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/no-record.jpg)
 ```
 
+## 第一批新增卡片 URL
+
+## 汉族/共同文化主题｜春节
+
+```markdown
+![春节](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/hanzu-chunjie.jpg)
+```
+
+## 羌族｜羌年
+
+```markdown
+![羌年](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/qiangzu-qiangnian.jpg)
+```
+
+## 土家族｜赶年
+
+```markdown
+![赶年](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/tujia-gannian.jpg)
+```
+
+## 哈尼族｜十月年
+
+```markdown
+![十月年](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/hanizu-shiyuenian.jpg)
+```
+
+## 回族｜开斋节
+
+```markdown
+![开斋节](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/huizu-kaizhaijie.jpg)
+```
+
+## 纳西族｜三朵节
+
+```markdown
+![三朵节](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/naxizu-sanduojie.jpg)
+```
+
+## 景颇族｜目瑙纵歌
+
+```markdown
+![目瑙纵歌](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/jingpo-munaozongge.jpg)
+```
+
+## 黎族｜三月三
+
+```markdown
+![黎族三月三](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/lizu-sanyuesan.jpg)
+```
+
+## 畲族｜三月三
+
+```markdown
+![畲族三月三](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/shezu-sanyuesan.jpg)
+```
+
+## 哈萨克族｜纳吾热孜节
+
+```markdown
+![纳吾热孜节](https://raw.githubusercontent.com/unmeaning717/net/main/tongxin-calendar-cards/mobile-text-v3/hasake-naurez.jpg)
+```
+
 ## MaxKB 默认回答建议
 
 ```text
